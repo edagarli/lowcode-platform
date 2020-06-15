@@ -9,3 +9,5 @@
 强大的代码生成器让前后端代码一键生成，无需写任何代码！
 
 [低代码平台会是软件业的未来么？](https://mp.weixin.qq.com/s/45Sr-qDj9J_K8BSWOnwtQQ)
+
+[低代码开发平台: 开发人员早日脱离996](https://mp.weixin.qq.com/s?__biz=MjM5NjA3MTQ4OA==&mid=2651715955&idx=1&sn=cb6890c8422533017235756abccca5d2&chksm=bd17885c8a60014a1f8658959626d15eeb4ab39e536e9d5db59c86518538440419968b29f8c2&token=468253413&lang=zh_CN#rd)

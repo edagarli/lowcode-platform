@@ -1,5 +1,5 @@
 # lowcode-platform
-低代码平台相关
+低代码平台相关 (在阿里折腾这块，比较关注这个，资料持续更新ing)
 
 [无代码开发，站到了程序员鄙视链顶端](https://www.infoq.cn/article/Qc1IXkyhKTzxmk3YESxl)
 
@@ -15,3 +15,5 @@
 [随心秀(react版h5微场景编辑器)，一款类似【易企秀】【兔展】的H5微场景编辑器](https://github.com/lzuntalented/lz-h5-edit)
 
 [低代码引擎模式，专业打造各类企业级信息管理软件系统](https://segmentfault.com/a/1190000022960858)
+
+[Dave：Node一键生成CRUD代码，又一款极其好用的代码生成器](https://segmentfault.com/a/1190000022973073)

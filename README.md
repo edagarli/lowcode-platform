@@ -17,3 +17,14 @@
 [低代码引擎模式，专业打造各类企业级信息管理软件系统](https://segmentfault.com/a/1190000022960858)
 
 [Dave：Node一键生成CRUD代码，又一款极其好用的代码生成器](https://segmentfault.com/a/1190000022973073)
+
+
+------------------------------------
+目前阿里从事低代码平台相关，更多内容可以关注我的公众号: 行走在创业的路上
+
+- 微信公众号
+
+![行走在创业的路上][1]
+
+
+[1]: https://github.com/edagarli/JAVAZeroToOne/blob/master/imgs/qrcode.jpg

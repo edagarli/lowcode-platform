@@ -20,6 +20,8 @@
 
 [华炎魔方低代码开发平台](https://github.com/steedos/steedos-platform)
 
+[易动 - H5营销页面弱代码搭建系统 支持动画、第三方接口接入](https://github.com/vkcyan/activity-YD)
+
 ------------------------------------
 目前阿里从事低代码平台相关，更多内容可以关注我的公众号: 行走在创业的路上
 

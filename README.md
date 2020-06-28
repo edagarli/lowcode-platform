@@ -18,6 +18,7 @@
 
 [Dave：Node一键生成CRUD代码，又一款极其好用的代码生成器](https://segmentfault.com/a/1190000022973073)
 
+[华炎魔方低代码开发平台](https://github.com/steedos/steedos-platform)
 
 ------------------------------------
 目前阿里从事低代码平台相关，更多内容可以关注我的公众号: 行走在创业的路上

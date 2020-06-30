@@ -26,6 +26,8 @@
 
 [华炎魔方低代码开发平台](https://github.com/steedos/steedos-platform)
 
+[网页设计器图形化工具,通过拖拽组件进行页面排版和生成页面代码](https://github.com/xiaoai7904/web_designer)
+
 ------------------------------------
 目前阿里从事低代码平台相关，更多内容可以关注我的公众号: 行走在创业的路上
 

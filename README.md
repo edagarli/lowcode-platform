@@ -28,6 +28,8 @@
 
 [网页设计器图形化工具,通过拖拽组件进行页面排版和生成页面代码](https://github.com/xiaoai7904/web_designer)
 
+[本项目是基于开源SnakerFlow工作流引擎，将其和springboot进行整合成为一个能够快速工程应用的轻量级工作流引擎组件，本着轻量、简单、灵巧理念设计，定位于简单集成，多环境支持。](https://github.com/snakerflow-starter/snakerflow-spring-boot-starter)
+
 ------------------------------------
 目前阿里从事低代码平台相关，更多内容可以关注我的公众号: 行走在创业的路上
 

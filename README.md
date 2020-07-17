@@ -30,6 +30,8 @@
 
 [本项目是基于开源SnakerFlow工作流引擎，将其和springboot进行整合成为一个能够快速工程应用的轻量级工作流引擎组件，本着轻量、简单、灵巧理念设计，定位于简单集成，多环境支持。](https://github.com/snakerflow-starter/snakerflow-spring-boot-starter)
 
+[自研流程设计，可视化界面与人性化设计，丰富的拖拽控件，基于流程图实现自动化](https://github.com/mcg-helper/mcg-helper)
+
 ------------------------------------
 目前阿里从事低代码平台相关，更多内容可以关注我的公众号: 行走在创业的路上
 

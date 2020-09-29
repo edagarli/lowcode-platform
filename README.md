@@ -35,7 +35,7 @@
 [Tefact 低代码平台 让你通过无需任何代码即可生成简单CRUD后台 Low-code platform: Build your admin panel without code!](https://github.com/Tefact/tefact-saas)
 
 ------------------------------------
-目前阿里从事低代码平台相关，更多内容可以关注我的公众号: 行走在创业的路上
+目前阿里从事低代码平台相关，欢迎大家投递简历，一起来造，更多内容可以关注我的公众号: 行走在创业的路上
 
 - 微信公众号
 

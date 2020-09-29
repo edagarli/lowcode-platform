@@ -34,6 +34,8 @@
 
 [Tefact 低代码平台 让你通过无需任何代码即可生成简单CRUD后台 Low-code platform: Build your admin panel without code!](https://github.com/Tefact/tefact-saas)
 
+[组件可视化拖拽，页面搭建，源码生成工具,自由拖拽嵌套，可实现任何真实开发中的复杂页面，所见即所得，可完美还原UI设计，多平台展示支持，项目于2020.2.22开源，喜欢的点颗星支持鼓励一下！visual drag and drop, free nesting, real-time preview of components, real-time tracking, WYSIWYG, perfect UI design restoration, source code Generated](https://github.com/brick-design/react-visual-editor)
+
 ------------------------------------
 目前阿里从事低代码平台相关，欢迎大家投递简历，一起来造，更多内容可以关注我的公众号: 行走在创业的路上
 

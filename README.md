@@ -46,9 +46,7 @@
 
 ### 技术汇总篇
 
-
-
-
+[低代码平台之导出分片架构设计](https://github.com/edagarli/lowcode-platform/blob/master/export.md)
 
 
 

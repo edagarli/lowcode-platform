@@ -52,6 +52,8 @@
 
 [低代码平台整理之事务隔离级别原理是怎样的？](https://github.com/edagarli/lowcode-platform/blob/master/transaction_iso.md)
 
+[Salesforce架构体系梳理](https://github.com/edagarli/lowcode-platform/blob/master/saleforce.md)
+
 ------------------------------------
 目前阿里从事低代码平台相关，欢迎大家投递简历，一起来造，更多内容可以关注我的公众号: 行走在创业的路上
 
